@@ -1,4 +1,4 @@
-module github.com/luwa07832/feature-flag-service
+module github.com/kvmymluq2i/cnv-image-transform
 
 go 1.26.0
 
